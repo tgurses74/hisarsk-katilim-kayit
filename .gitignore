@@ -1,0 +1,16 @@
+# Supabase
+supabase/.temp/
+supabase/.env
+
+# Vercel
+frontend/.vercel/
+
+# Node
+node_modules/
+
+# OS
+.DS_Store
+
+# Environment
+.env
+.env.local
